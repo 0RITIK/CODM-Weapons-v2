@@ -1,4 +1,8 @@
-# Welcome to your Lovable project
+# CODM Arsenal Ritz
+
+## Project Description
+
+A comprehensive website showcasing the arsenal in Call of Duty Mobile (CODM), including weapons, throwables, player stats, reviews, and more. Built with modern web technologies for an interactive experience.
 
 ## Project info
 
@@ -8,11 +12,7 @@
 
 There are several ways of editing your application.
 
-**Use Lovable**
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/608c70f1-e877-4980-b412-8389e3342f80) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -62,7 +62,7 @@ This project is built with:
 
 ## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/608c70f1-e877-4980-b412-8389e3342f80) and click on Share -> Publish.
+Simply open (https://lovable.dev/projects/608c70f1-e877-4980-b412-8389e3342f80) and click on Share -> Publish.
 
 ## Can I connect a custom domain to my Lovable project?
 
